@@ -1,4 +1,5 @@
 Hi, this is test file2.
+<<<<<<< Updated upstream
 A
 B
 C 
@@ -14,3 +15,10 @@ L
 M
 N
 O
+=======
+F 
+G 
+H 
+I 
+J 
+>>>>>>> Stashed changes
