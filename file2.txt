@@ -1,1 +1,6 @@
 Hi, this is test file2.
+A
+B
+C 
+D
+E
