@@ -1,1 +1,3 @@
 Hi, this is practice file2.
+stmt 1
+stmt 2
